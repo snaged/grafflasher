@@ -3,18 +3,19 @@
   "symbol": "TESTNFT",
   "description": "Dynamic Video NFT Test",
   "image": "https://raw.githubusercontent.com/snaged/grafflasher/e2522525da1ef1a7cd665650de648c16ea3d6f8b/1.jpg",
-  "animation_url": "https://raw.githubusercontent.com/snaged/grafflasher/e2522525da1ef1a7cd665650de648c16ea3d6f8b/video1.mp4",
+  "animation_url": "https://raw.githubusercontent.com/snaged/grafflasher/391dd90ff725f0ec27da6d89e6f4f26b07bb2bd7/video2.mp4",
   "attributes": [
     { "trait_type": "Edition", "value": "1" }
   ],
   "properties": {
     "category": "video",
     "files": [
-      { "uri": "https://raw.githubusercontent.com/snaged/grafflasher/e2522525da1ef1a7cd665650de648c16ea3d6f8b/video1.mp4", "type": "video/mp4" },
+      { "uri": "https://raw.githubusercontent.com/snaged/grafflasher/391dd90ff725f0ec27da6d89e6f4f26b07bb2bd7/video2.mp4", "type": "video/mp4" },
       { "uri": "https://raw.githubusercontent.com/snaged/grafflasher/e2522525da1ef1a7cd665650de648c16ea3d6f8b/1.jpg", "type": "image/jpeg" }
     ],
     "creators": [
       { "address": "C6UJ53V5rhy9u8jhGEFRqESosj5Vdijrgb77ZSa2dUt3", "share": 100 }
     ]
   }
+
 }
