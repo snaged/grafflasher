@@ -4,7 +4,7 @@
   "description": "Dynamic Video NFT - Project Grafflasher",
   "external_url": "https://grafflasher.online",
   "image": "https://raw.githubusercontent.com/snaged/grafflasher/devnet-test/1.jpg",
-  "animation_url": "https://raw.githubusercontent.com/snaged/grafflasher/devnet-test/video2.mp4",
+  "animation_url": "https://raw.githubusercontent.com/snaged/grafflasher/devnet-test/video1.mp4",
   "attributes": [
     {
       "trait_type": "Edition",
@@ -15,7 +15,7 @@
     "category": "video",
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/snaged/grafflasher/devnet-test/video2.mp4",
+        "uri": "https://raw.githubusercontent.com/snaged/grafflasher/devnet-test/video1.mp4",
         "type": "video/mp4"
       },
       {
@@ -31,4 +31,5 @@
     ]
   }
 }
+
 
